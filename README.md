@@ -12,4 +12,4 @@
   
   
   - 🔭 I'm a software Engineer [@Halan](https://www.halan.com) in Cairo, Egypt.
-  - Now I am interested in Golang and how to make the code work faster and do a lot of things in no time 
+  - Now I am interested in ( Golang & Scala ) and how to make the code work faster and do a lot of things in no time 
